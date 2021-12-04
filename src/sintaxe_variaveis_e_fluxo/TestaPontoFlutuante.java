@@ -13,8 +13,8 @@ public class TestaPontoFlutuante {
 		//int teste1 = 0.0; nao compila
 		
 		int divisao = 5 / 2 ;
-		System.out.println(divisao); //imprime 2
-		
+		System.out.println(divisao); // imprime 2
+
 		double divisao2 = 5 / 2;
 		System.out.println(divisao2); //imprime 2
 		
